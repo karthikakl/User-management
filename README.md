@@ -3,7 +3,7 @@
 This User Management System was built to deepen understanding of Redux for efficient state management in a full-stack application. 
 
 ## Features 
-**Role-Specific Functionality**: Implemented separate user and admin interfaces tailored for their respective roles.
+- **Role-Specific Functionality**: Implemented separate user and admin interfaces tailored for their respective roles.
 - **Admin Capabilities**: Enabled admin users to add, edit, delete, and sort user data seamlessly.
 - **State Management**: Integrated Redux to manage state across the application, ensuring smooth updates and data flow between components.
 - **Backend API**: Developed a secure backend API using Node.js and Express.js to support all application operations.
